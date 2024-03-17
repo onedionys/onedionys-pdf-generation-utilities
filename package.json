@@ -1,0 +1,36 @@
+{
+  "name": "onedionys-pdf-generation-utilities",
+  "version": "1.0.0",
+  "description": "One Dionys (PDF Generation Utilities) - A utility for generating PDF documents from dynamic content in web applications, such as reports or invoices.",
+  "main": "src/pdfGenerator.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-pdf-generation-utilities.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "pdf-generation-utilities"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-pdf-generation-utilities/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-pdf-generation-utilities#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  }
+}
