@@ -1,6 +1,6 @@
 {
   "name": "onedionys-pdf-generation-utilities",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (PDF Generation Utilities) - A utility for generating PDF documents from dynamic content in web applications, such as reports or invoices.",
   "main": "src/pdfGenerator.js",
   "directories": {
